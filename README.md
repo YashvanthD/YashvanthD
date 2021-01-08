@@ -4,7 +4,7 @@
 
 ### 🌱 I’m currently learning ...                                                         
   Machine Learning
-
+  Deep Learning
 
 
 
