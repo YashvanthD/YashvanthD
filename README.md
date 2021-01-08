@@ -1,7 +1,6 @@
 <h2> <strong>Hi, this is <a href = "https://adityasunny1189.github.io/my-resume/">Yashvanth</a>!</strong> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-I am a second year Information Science student at Siddaganga Institute of Technology with a prolonged history of working in the field of web development and algorithm. My field of interest's are web and competitive programming.
 
 ### 🌱 I’m currently learning ...                                                         
   Machine Learning
