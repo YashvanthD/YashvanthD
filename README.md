@@ -36,8 +36,8 @@
 
 
 ### 📫 How to reach me: ...
-[![Linkedin Badge](https://myfirstbucket77600.s3.ap-south-1.amazonaws.com/images/Linkedin-Logo3.png)](https://www.linkedin.com/in/yashvanthd/)
-[![Gmail Badge](https://myfirstbucket77600.s3.ap-south-1.amazonaws.com/images/Gmail-logo2.png)](mailto:yashvanthsira@gmail.com)
+[![Linkedin Badge](https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png?size=32)](https://www.linkedin.com/in/yashvanthd/)
+[![Gmail Badge](https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-32.png)](mailto:yashvanthsira@gmail.com)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvanthD&show_icons=true&theme=tokyonight)
 
