@@ -6,9 +6,13 @@
 
 
 ### 🌱 I’m currently learning ...                                                         
-  Machine Learning
-  ,
-  Deep Learning
+
+- React Native...
+- Spring Boot...
+
+### 👨🏽‍💻 I’m currently Working in ...                                                         
+
+- LogMeIn as a _Associative Software Engineer_ _Backend Developer_ 
 
 
 
