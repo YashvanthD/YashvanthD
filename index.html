@@ -586,9 +586,11 @@
                                 var date1 = new Date();
                                 var Difference_In_Time = Math.abs(date2.getTime() - date1.getTime());
                                 var Difference_In_Days = parseInt(Difference_In_Time / (1000 * 3600 * 24));
-                                var months = Math.floor(Difference_In_Days / 28)
+                                var months_total = Math.floor(Difference_In_Days / 28)
+                                var years = Math.floor(months / 12)
+                                var months = (months_total - years*12)
                                 var Difference_In_Days = Math.floor(Difference_In_Days % 28)
-                                document.write(Difference_In_Days + " Days " + months + " Months " + Math.floor(months / 12) + " Years");
+                                document.write(Difference_In_Days + " Days " + months + " Months " + years + " Years");
                             </script>
 
                             <div class="logmeinTime"></div>
